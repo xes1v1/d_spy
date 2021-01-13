@@ -1,8 +1,8 @@
 name: d_spy
-description: A Flutter plugin for more efficient to use DStack
-version: 0.0.1
-author:
-homepage:
+description: DStack的可视化插件，用于原生侧的屏幕截图上传节点等
+version: 1.0.0
+author: peter<maxu@tal.com>
+homepage: https://github.com/xes1v1/d_spy.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
